@@ -5,11 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   
-  <!-- <properties>
-  	<java.version>1.8</java.version>
-  	<spring.version>4.2.5.RELEASE</spring.version>
-  </properties>
-   -->
   <dependencies>
   	<!-- http://mvnrepository.com/artifact/org.springframework/spring-core -->
 	<dependency>
@@ -40,20 +35,7 @@
 	    <groupId>org.springframework</groupId>
 	    <artifactId>spring-beans</artifactId>
 	    <version>4.2.5.RELEASE
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+
 </version>
 	</dependency>
   

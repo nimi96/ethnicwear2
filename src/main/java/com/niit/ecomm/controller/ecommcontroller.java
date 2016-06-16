@@ -11,5 +11,10 @@ public class ecommcontroller {
 	{
 		return "index";
 	}
+	@RequestMapping("/signup")
+	public String signUp()
+	{
+		return "signup";
+	}
 	
 }
